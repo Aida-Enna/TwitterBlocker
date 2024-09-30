@@ -12,7 +12,11 @@ I've simply uncompressed (unminified) it and added some comments. I may add some
 2) Go to Twitter and pull up the list of people who retweeted the tweet or who follow the account in question. Followers can be found by clicking on "followers" on that person's profile. For retweets, open the post engagements by clicking the three dots in the top right corner and "view post engagements", then click over to the "reposts" tab.
 3) Go to the URL bar (where you type in stuff like www.google.com) and type "javacript:", paste the text from your clipboard, and press enter.
 
-It takes 0.5-2 seconds per account (depends on your internet speed), so it may take a few minutes if there are a lot of accounts. Unfortunately, Twitter is designed in a weird way that makes the script stop working if you leave the tab, so you'll need to stay there while it runs. (You can, however, go to a different window on a desktop computer and it will continue running in the background window.) Twitter also sometimes limits the number of retweets that are shown - there's nothing I can do about that unfortunately, so it may not block every retweeter if it was a very popular tweet.
+It takes 0.5-2 seconds per account (depends on your internet speed), so it may take a few minutes if there are a lot of accounts.
+
+Unfortunately, Twitter is designed in a weird way that makes the script stop working if you leave the tab, so you'll need to stay there while it runs. (You can, however, go to a different window on a desktop computer and it will continue running in the background window.)
+
+Twitter also sometimes limits the number of retweets that are shown - there's nothing I can do about that unfortunately, so it may not block every retweeter if it was a very popular tweet.
 
 ## Troubleshooting
 This script is a bit finicky, so it sometimes doesn't work. If you're having trouble with it, please try the following:
