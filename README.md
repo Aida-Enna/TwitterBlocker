@@ -8,7 +8,7 @@ I've simply uncompressed (unminified) it and added some comments. I may add some
 ## How to use
 (Please note that you will need to use a web browser for this, not the Twitter app)
 
-1) First, copy [the entire script](https://raw.githubusercontent.com/Aida-Enna/TwitterBlocker/refs/heads/main/Block.js) to your clipboard (Click the link and then select all -> copy)
+1) First, copy [the entire script](https://raw.githubusercontent.com/Aida-Enna/TwitterBlocker/refs/heads/main/Block.js) to your clipboard (Click the link and then select all of it -> copy. You can do this easily with Ctrl + A and then Ctrl + C.)
 2) Go to Twitter and pull up the list of people who retweeted the tweet or who follow the account in question. Followers can be found by clicking on "followers" on that person's profile. For retweets, open the post engagements by clicking the three dots in the top right corner and "view post engagements", then click over to the "reposts" tab.
 3) Go to the URL bar (where you type in stuff like www.google.com) and type "javacript:", paste the text from your clipboard, and press enter.
 
